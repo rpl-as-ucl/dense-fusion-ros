@@ -18,6 +18,8 @@ pip install dense-fusion
 ## Install
 
 ```
+sudo apt-get install ros-kinetic-image-transport*
+
 mkdir -p ~/catkin_ws/src
 cd ~/catkin_ws
 catkin init
